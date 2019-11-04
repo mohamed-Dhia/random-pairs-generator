@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Random Pair Generator</title>
+	<link rel="stylesheet" type="text/css" href="css.css">
+</head>
+<body>
+
+	<button>Generate!</button>
+
+	<div id="renderedList"></div>
+
+
+	<script
+	  src="https://code.jquery.com/jquery-3.4.1.js"
+	  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+	  crossorigin="anonymous"></script>
+	<script type="text/javascript" src= "main.js"></script>
+	<script type="text/javascript">
+
+		$("button").on("click", display(pairSystem()));
+
+		function display(arr){
+
+			$("#renderedList").html("");
+
+			for (var i = 0; i < arr.length; i++) {
+				$('body').append("<br><div>" + "<strong>" + arr[i][0] + "</strong> and <strong>" + arr[i][1] + "</strong> are paired together" + "</div>" )	
+			}
+			
+		}
+
+	</script>
+
+	</body>
+</html>
