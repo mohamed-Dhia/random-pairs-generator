@@ -1,7 +1,50 @@
 body {
 	background: url("RBK_logo.png") no-repeat fixed center;;
   	background-size: auto;
+  	font-family: Arial, Helvetica, sans-serif;
+  	font-size: large;
 }
 
+h1 { text-align: center;
+
+}
+
+button {
+  background-color: #b32914;
+  border: none;
+  color: white;
+  padding: 15px 50px;
+  border-radius: 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  transform: translateX(6%);
+
+}
+
+div {
+  padding: 20px;
+  display: grid;
+  grid-gap: 20px;
+  grid-auto-rows:max-content;
+  text-align: left;
+}
+
+.divvy {
+  border: 10px solid #145eb3;
+  padding: 20px;
+  display: grid;
+  grid-gap: 20px;
+  grid-auto-rows:max-content;
+  text-align: left;
+}
+
+
+
+button:hover {
+  background-color: #145eb3;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
 
 
