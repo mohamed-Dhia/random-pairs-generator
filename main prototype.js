@@ -1,321 +1,424 @@
-{
+var Students = {
   "HashemBuzer": {
     "pastPairs": [
-      "OmarBara"
-    ]
+      "OmarBara",
+      "BilelGharbi",
+      "MohamedSbeta"
+    ],
+    "Solo": false,
+    "img": "HashemBuzer.jpeg"
   },
   "OmarBara": {
     "pastPairs": [
       "HashemBuzer",
-      "HeniMezrani"
-    ]
+      "HeniMezrani",
+      "AliJalal"
+    ],
+    "Solo": false,
+    "img": "OmarBara.jpeg"
   },
   "MohamedAmineAouini": {
     "pastPairs": [
       "HaniaLazreg",
-      "AliJalal"
-    ]
+      "AliJalal",
+      "EssamFaraj"
+    ],
+    "Solo": false,
+    "img": "MohamedAmineAouini.jpeg"
   },
   "HaniaLazreg": {
     "pastPairs": [
       "MohamedAmineAouini",
-      "JihedAbdelly"
-    ]
+      "JihedAbdelly",
+      "HoudaRouaissi"
+    ],
+    "Solo": false,
+    "img": "HaniaLazreg.jpeg"
   },
   "MohamedBelkheir": {
     "pastPairs": [
       "MehdiFarjallah",
-      "HamamElmurtdh"
-    ]
+      "HamamElmurtdh",
+      "DhiaRaissi"
+    ],
+    "Solo": true,
+    "img": "MohamedBelkheir.jpeg"
   },
   "MehdiFarjallah": {
     "pastPairs": [
       "MohamedBelkheir",
       "FirasAmous"
-    ]
+    ],
+    "Solo": false,
+    "img": "MehdiFarjallah.jpeg"
   },
   "AbdelsalamShahlol": {
     "pastPairs": [
       "MohamedFared",
-      "OnsRahmani"
-    ]
+      "OnsRahmani",
+      "MuftahElzawi"
+    ],
+    "Solo": false,
+    "img": "AbdelsalamShahlol.jpeg"
   },
   "MohamedFared": {
     "pastPairs": [
       "AbdelsalamShahlol",
-      "ZiedBarhoumi"
-    ]
+      "ZiedBarhoumi",
+      "HamzaDanden"
+    ],
+    "Solo": false,
+    "img": "MohamedFared.jpeg"
   },
   "FirasAmous": {
     "pastPairs": [
       "HamamElmurtdh",
-      "MehdiFarjallah"
-    ]
+      "MehdiFarjallah",
+      "FaroukGuizeni"
+    ],
+    "Solo": false,
+    "img": "FirasAmous.jpeg"
   },
   "HamamElmurtdh": {
     "pastPairs": [
       "FirasAmous",
-      "MohamedBelkheir"
-    ]
+      "MohamedBelkheir",
+      "HeniMezrani"
+    ],
+    "Solo": false,
+    "img": "HamamElmurtdh.jpeg"
   },
   "ZiedBarhoumi": {
     "pastPairs": [
       "HeniMezrani",
-      "MohamedFared"
-    ]
+      "MohamedFared",
+      "KhoubaiebGhaouari"
+    ],
+    "Solo": false,
+    "img": "ZiedBarhoumi.jpeg"
   },
   "HeniMezrani": {
     "pastPairs": [
       "ZiedBarhoumi",
-      "OmarBara"
-    ]
+      "OmarBara",
+      "HamamElmurtdh"
+    ],
+    "Solo": false,
+    "img": "HeniMezrani.jpeg"
   },
   "SalimAliAlsaeh": {
     "pastPairs": [
       "AliJalal",
-      "MohamedSbeta"
-    ]
+      "MohamedSbeta",
+      "AbdoAlabed"
+    ],
+    "Solo": false,
+    "img": "SalimAliAlsaeh.jpeg"
   },
   "AliJalal": {
     "pastPairs": [
       "SalimAliAlsaeh",
-      "MohamedAmineAouini"
-    ]
+      "MohamedAmineAouini",
+      "OmarBara"
+    ],
+    "Solo": false,
+    "img": "AliJalal.jpeg"
   },
   "OnsRahmani": {
     "pastPairs": [
       "NejahSafi",
-      "AbdelsalamShahlol"
-    ]
+      "AbdelsalamShahlol",
+      "AmeraAyad"
+    ],
+    "Solo": false,
+    "img": "OnsRahmani.jpeg"
   },
   "NejahSafi": {
     "pastPairs": [
       "OnsRahmani",
-      "FoozBarakat"
-    ]
+      "FoozBarakat",
+      "SofianSaleh"
+    ],
+    "Solo": false,
+    "img": "NejahSafi.jpeg"
   },
   "HoudaRouaissi": {
     "pastPairs": [
       "FoozBarakat",
-      "MaherBouzid"
-    ]
+      "MaherBouzid",
+      "HaniaLazreg"
+    ],
+    "Solo": false,
+    "img": "HoudaRouaissi.jpeg"
   },
   "FoozBarakat": {
     "pastPairs": [
       "HoudaRouaissi",
-      "NejahSafi"
-    ]
+      "NejahSafi",
+      "MalikAbdullah"
+    ],
+    "Solo": false,
+    "img": "FoozBarakat.jpeg"
   },
   "JihedAbdelly": {
     "pastPairs": [
       "MaherBouzid",
-      "HaniaLazreg"
-    ]
+      "HaniaLazreg",
+      "FatimaMabrook"
+    ],
+    "Solo": false,
+    "img": "JihedAbdelly.jpeg"
   },
   "MaherBouzid": {
     "pastPairs": [
       "JihedAbdelly",
-      "HoudaRouaissi"
-    ]
+      "HoudaRouaissi",
+      "AhmedWheida"
+    ],
+    "Solo": false,
+    "img": "MaherBouzid.jpeg"
   },
   "MalikAbdullah": {
     "pastPairs": [
       "HamzaDanden",
-      "TahaZnazen"
-    ]
+      "TahaZnazen",
+      "FoozBarakat"
+    ],
+    "Solo": false,
+    "img": "MalikAbdullah.jpeg"
   },
   "HamzaDanden": {
     "pastPairs": [
       "MalikAbdullah",
-      "FaresJelassi"
-    ]
+      "FaresJelassi",
+      "MohamedFared"
+    ],
+    "Solo": false,
+    "img": "HamzaDanden.jpeg"
   },
   "FaresJelassi": {
     "pastPairs": [
       "TahaZnazen",
-      "HamzaDanden"
-    ]
+      "HamzaDanden",
+      "RubaArifElwahieshi"
+    ],
+    "Solo": false,
+    "img": "FaresJelassi.jpeg"
   },
   "TahaZnazen": {
     "pastPairs": [
       "FaresJelassi",
-      "MalikAbdullah"
-    ]
+      "MalikAbdullah",
+      "MohamedAmineSlaimia",
+      "InsafMechergui"
+    ],
+    "Solo": true,
+    "img": "TahaZnazen.jpeg"
   },
   "KhoubaiebGhaouari": {
     "pastPairs": [
       "WajdiHamrouni",
-      "MuftahElzawi"
-    ]
+      "MuftahElzawi",
+      "ZiedBarhoumi"
+    ],
+    "Solo": false,
+    "img": "KhoubaiebGhaouari.jpeg"
   },
   "WajdiHamrouni": {
     "pastPairs": [
-      "KhoubaiebGhaouari"
-    ]
+      "KhoubaiebGhaouari",
+      "FatimaMabrook",
+      "BilelGharbi"
+    ],
+    "Solo": false,
+    "img": "WajdiHamrouni.jpeg"
   },
-  "AubaArifElwahieshi": {
+  "RubaArifElwahieshi": {
     "pastPairs": [
       "AmeraAyad",
-      "Mejri",
-      "TahaMejri"
-    ]
+      "TahaMejri",
+      "FaresJelassi"
+    ],
+    "Solo": false,
+    "img": "AubaArifElwahieshi.jpeg"
   },
   "AmeraAyad": {
     "pastPairs": [
-      "AubaArifElwahieshi"
-    ]
+      "AubaArifElwahieshi",
+      "FaroukGuizeni",
+      "OnsRahmani"
+    ],
+    "Solo": false,
+    "img": "AmeraAyad.jpeg"
   },
   "FaroukGuizeni": {
     "pastPairs": [
-      "TahaMejri"
-    ]
+      "TahaMejri",
+      "AmeraAyad",
+      "FirasAmous"
+    ],
+    "Solo": false,
+    "img": "FaroukGuizeni.jpeg"
   },
   "TahaMejri": {
     "pastPairs": [
       "FaroukGuizeni",
       "AubaArifElwahieshi"
-    ]
+    ],
+    "Solo": false,
+    "img": "TahaMejri.jpeg"
   },
   "FatimaMabrook": {
     "pastPairs": [
-      "AnasMarzouki"
-    ]
+      "AnasMarzouki",
+      "WajdiHamrouni",
+      "JihedAbdelly"
+    ],
+    "Solo": false,
+    "img": "FatimaMabrook.jpeg"
   },
   "AnasMarzouki": {
     "pastPairs": [
-      "FatimaMabrook"
-    ]
+      "FatimaMabrook",
+      "LinaBenSalem"
+    ],
+    "Solo": true,
+    "img": "AnasMarzouki.jpeg"
   },
   "AbdoAlabed": {
     "pastPairs": [
-      "MohamedAmineSlaimia"
-    ]
+      "MohamedAmineSlaimia",
+      "SalimAliAlsaeh"
+    ],
+    "Solo": false,
+    "img": "AbdoAlabed.jpeg"
   },
   "MohamedAmineSlaimia": {
     "pastPairs": [
-      "AbdoAlabed"
-    ]
+      "AbdoAlabed",
+      "TahaZnazen"
+    ],
+    "Solo": false,
+    "img": "MohamedAmineSlaimia.jpeg"
   },
   "MohamedDhiaWeslati": {
     "pastPairs": [
-      "AhmedWheida"
-    ]
+      "AhmedWheida",
+      "EssamFaraj",
+      "AbdulrahmanShibani"
+    ],
+    "Solo": false,
+    "img": "MohamedDhiaWeslati.jpeg"
   },
   "AhmedWheida": {
     "pastPairs": [
-      "MohamedDhiaWeslati"
-    ]
+      "MohamedDhiaWeslati",
+      "AdnenBenAbdelaali",
+      "MaherBouzid"
+    ],
+    "Solo": false,
+    "img": "AhmedWheida.jpeg"
   },
   "DhiaRaissi": {
     "pastPairs": [
-      "AdamMomen"
-    ]
+      "AdamMomen",
+      "SofianSaleh",
+      "MohamedBelkheir"
+    ],
+    "Solo": false,
+    "img": "DhiaRaissi.jpeg"
   },
   "AdamMomen": {
     "pastPairs": [
-      "DhiaRaissi"
-    ]
+      "DhiaRaissi",
+      "AbdulrahmanShibani",
+      "AdnenBenAbdelaali"
+    ],
+    "Solo": false,
+    "img": "AdamMomen.jpeg"
   },
   "AbdulrahmanShibani": {
     "pastPairs": [
-      "SofianSaleh"
-    ]
+      "SofianSaleh",
+      "AdamMomen",
+      "MohamedDhiaWeslati"
+    ],
+    "Solo": false,
+    "img": "AbdulrahmanShibani.jpeg"
   },
   "SofianSaleh": {
     "pastPairs": [
-      "AbdulrahmanShibani"
-    ]
+      "AbdulrahmanShibani",
+      "DhiaRaissi",
+      "NejahSafi"
+    ],
+    "Solo": false,
+    "img": "SofianSaleh.jpeg"
   },
   "EssamFaraj": {
     "pastPairs": [
-      "MuftahElzawi"
-    ]
+      "MuftahElzawi",
+      "MohamedDhiaWeslati",
+      "MohamedAmineAouini"
+    ],
+    "Solo": false,
+    "img": "EssamFaraj.jpeg"
   },
   "MuftahElzawi": {
     "pastPairs": [
       "EssamFaraj",
-      "KhoubaiebGhaouari"
-    ]
+      "KhoubaiebGhaouari",
+      "AbdelsalamShahlol"
+    ],
+    "Solo": false,
+    "img": "MuftahElzawi.jpeg"
   },
   "InsafMechergui": {
     "pastPairs": [
-      "LinaBenSalem"
-    ]
+      "LinaBenSalem",
+      "TahaZnazen"
+    ],
+    "Solo": false,
+    "img": "InsafMechergui.jpeg"
   },
   "LinaBenSalem": {
     "pastPairs": [
-      "InsafMechergui"
-    ]
+      "InsafMechergui",
+      "AnasMarzouki"
+    ],
+    "Solo": false,
+    "img": "LinaBenSalem.jpeg"
   },
   "AdnenBenAbdelaali": {
     "pastPairs": [
       "BilelGharbi",
-      "MohamedSbeta"
-    ]
+      "MohamedSbeta",
+      "AhmedWheida",
+      "AdamMomen"
+    ],
+    "Solo": false,
+    "img": "AdnenBenAbdelaali.jpeg"
   },
   "BilelGharbi": {
     "pastPairs": [
       "AdnenBenAbdelaali",
-      "MohamedSbeta"
-    ]
+      "MohamedSbeta",
+      "HashemBuzer",
+      "WajdiHamrouni"
+    ],
+    "Solo": false,
+    "img": "BilelGharbi.jpeg"
   },
   "MohamedSbeta": {
     "pastPairs": [
       "BilelGharbi",
       "AdnenBenAbdelaali",
-      "SalimAliAlsaeh"
-    ]
+      "SalimAliAlsaeh",
+      "HashemBuzer"
+    ],
+    "Solo": false,
+    "img": "MohamedSbeta.jpeg"
   }
-}
-
-var Students = {
-	HashemBuzer : { pastPairs : ["OmarBara",] },
-	OmarBara: { pastPairs : ["HashemBuzer",] },
-	MohamedAmineAouini: { pastPairs : ["HaniaLazreg",] },
-	HaniaLazreg: { pastPairs : ["MohamedAmineAouini",] },
-	MohamedBelkheir: { pastPairs : ["MehdiFarjallah",] },
-	MehdiFarjallah: { pastPairs : ["MohamedBelkheir",] },
-	AbdelsalamShahlol: { pastPairs : ["MohamedFared",] },
-	MohamedFared: { pastPairs : ["AbdelsalamShahlol",] },
-	FirasAmous: { pastPairs : ["HamamElmurtdh",] },
-	HamamElmurtdh: { pastPairs : ["FirasAmous",] },
-	ZiedBarhoumi: { pastPairs : ["HeniMezrani",] },
-	HeniMezrani: { pastPairs : ["ZiedBarhoumi",] },
-	SalimAliAlsaeh: { pastPairs : ["AliJalal",] },
-	AliJalal: { pastPairs : ["SalimAliAlsaeh",] },
-	OnsRahmani: { pastPairs : ["NejahSafi",] },
-	NejahSafi: { pastPairs : ["OnsRahmani",] },
-	HoudaRouaissi: { pastPairs : ["FoozBarakat",] },
-	FoozBarakat: { pastPairs : ["HoudaRouaissi",] },
-	JihedAbdelly: { pastPairs : ["MaherBouzid",] },
-	MaherBouzid: { pastPairs : ["JihedAbdelly",] },
-	MalikAbdullah: { pastPairs : ["HamzaDanden",] },
-	HamzaDanden: { pastPairs : ["MalikAbdullah",] },
-	FaresJelassi: { pastPairs : ["TahaZnazen",] },
-	TahaZnazen: { pastPairs : ["FaresJelassi",] },
-	KhoubaiebGhaouari: { pastPairs : ["WajdiHamrouni",] },
-	WajdiHamrouni: { pastPairs : ["KhoubaiebGhaouari",] },
-	AubaArifElwahieshi: { pastPairs : ["AmeraAyad",] },
-	AmeraAyad: { pastPairs : ["AubaArifElwahieshi",] },
-	FaroukGuizeni: { pastPairs : ["TahaMejri",] },
-	TahaMejri: { pastPairs : ["FaroukGuizeni",] },
-	FatimaMabrook: { pastPairs : ["AnasMarzouki",] },
-	AnasMarzouki: { pastPairs : ["FatimaMabrook",] },
-	AbdoAlabed: { pastPairs : ["MohamedAmineSlaimia",] },
-	MohamedAmineSlaimia: { pastPairs : ["AbdoAlabed",] },
-	MohamedDhiaWeslati: { pastPairs : ["AhmedWheida",] },
- 	AhmedWheida : { pastPairs : ["MohamedDhiaWeslati",] },
-	DhiaRaissi: { pastPairs : ["AdamMomen",] },
-	AdamMomen: { pastPairs : ["DhiaRaissi",] },
-	AbdulrahmanShibani: { pastPairs : ["SofianSaleh",] },
-	SofianSaleh: { pastPairs : ["AbdulrahmanShibani",] },
-	EssamFaraj: { pastPairs : ["MuftahElzawi",] },
-	MuftahElzawi: { pastPairs : ["EssamFaraj",] },
-	InsafMechergui: { pastPairs : ["LinaBenSalem",] },
-	LinaBenSalem: { pastPairs : ["InsafMechergui",] },
-	AdnenBenAbdelaali: { pastPairs : ["BilelGharbi","MohamedSbeta",] },
-	BilelGharbi: { pastPairs : ["AdnenBenAbdelaali","MohamedSbeta",] },
-	MohamedSbeta: { pastPairs : ["BilelGharbi","AdnenBenAbdelaali",] },
 }
 
 function each(coll, f) {
@@ -347,7 +450,7 @@ function filterOut(studentList,pairsList){
 	})
 }
 
-function chosePair(student,listOfStudents){
+function choosePair(student,listOfStudents){
 	var arr = filterOut(listOfStudents,Students[student].pastPairs);
 	arr.splice(arr.indexOf(student),1)
 	return [student, arr[Math.floor(Math.random() * Math.floor(arr.length))]];
@@ -358,16 +461,49 @@ function addToPastpairs (arr){
 	Students[arr[1]].pastPairs.push(arr[0])
 }
 
-function pairing(studnetData) {
+function findSolo(obj){
+	var arr = filter (Object.keys(obj),function(element){
+		return Students[element].Solo === false;
+	})
+	var sadPerson = arr[Math.floor(Math.random() * Math.floor(arr.length))];
+	Students[sadPerson].Solo = true;
+	return [sadPerson,'solo'];	
+}
 
-	var list = Object.keys(studnetData);
+function pairing(studentData) {
+
+	var list = Object.keys(studentData);
 	var pairs = [];
+	
+	if(list.length % 2 === 1){
+		pairs.push(findSolo(Students));
+		list.splice(pairs[0],1);
+	}
+	
 	while(list.length > 0){
-		var arr = chosePair(list[0],list);
+		var arr = choosePair(list[0],list);
 		addToPastpairs(arr)
 		list.splice(0,1)
 		list.splice(list.indexOf(arr[1]),1)
 		pairs.push(arr);
 	}
-  return pairs;
+  	
+  	return pairs;
+} 
+ //////////////////
+function Manipulate(obj){
+	var manipModule = {};
+	manipModule.studentsList = obj;
+	manipModule.changePic = changePic;
+	manipModule.changeName = changeName;
+	return manipModule;
 }
+var changePic = function(student,newPic) {
+	this.studentsList[student].img = newPic
+} 
+
+var changeName = function(wrongName,correctName){
+	this.studentsList[correctName] = this.studentsList[wrongName];
+	delete this.studentsList[wrongName]
+}
+
