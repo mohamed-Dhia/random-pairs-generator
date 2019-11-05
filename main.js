@@ -1,4 +1,4 @@
-
+/*
 var Students = {
 	HashemBuzer : { pastPairs : [] },
 	OmarBara: { pastPairs : [] },
@@ -151,7 +151,7 @@ function pairing(studnetData) {
 		pairs.push(arr);
 	}
 }
-
+*/
 /////////////////////////////////////
 var Students = {
 	HashemBuzer : { pastPairs : [] },
@@ -200,7 +200,7 @@ var Students = {
 	LinaBenSalem: { pastPairs : [] },
 	AdnenBenAbdelaali: { pastPairs : [] },
 	BilelGharbi: { pastPairs : [] },
-	MohamedSbeta: { pastPairs : [] },
+//	MohamedSbeta: { pastPairs : [] },
 }
 
 
