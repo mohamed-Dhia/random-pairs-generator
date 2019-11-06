@@ -6,7 +6,7 @@ var Students = {
       "MohamedSbeta"
     ],
     "Solo": false,
-    "img": "HashemBuzer.jpeg"
+    "img": "HashemBuzer.jpg"
   },
   "OmarBara": {
     "pastPairs": [
@@ -15,7 +15,7 @@ var Students = {
       "AliJalal"
     ],
     "Solo": false,
-    "img": "OmarBara.jpeg"
+    "img": "OmarBara.jpg"
   },
   "MohamedAmineAouini": {
     "pastPairs": [
@@ -24,7 +24,7 @@ var Students = {
       "EssamFaraj"
     ],
     "Solo": false,
-    "img": "MohamedAmineAouini.jpeg"
+    "img": "MohamedAmineAouini.jpg"
   },
   "HaniaLazreg": {
     "pastPairs": [
@@ -33,7 +33,7 @@ var Students = {
       "HoudaRouaissi"
     ],
     "Solo": false,
-    "img": "HaniaLazreg.jpeg"
+    "img": "HaniaLazreg.jpg"
   },
   "MohamedBelkheir": {
     "pastPairs": [
@@ -42,7 +42,7 @@ var Students = {
       "DhiaRaissi"
     ],
     "Solo": true,
-    "img": "MohamedBelkheir.jpeg"
+    "img": "MohamedBelkheir.jpg"
   },
   "MehdiFarjallah": {
     "pastPairs": [
@@ -50,7 +50,7 @@ var Students = {
       "FirasAmous"
     ],
     "Solo": false,
-    "img": "MehdiFarjallah.jpeg"
+    "img": "MehdiFarjallah.jpg"
   },
   "AbdelsalamShahlol": {
     "pastPairs": [
@@ -59,7 +59,7 @@ var Students = {
       "MuftahElzawi"
     ],
     "Solo": false,
-    "img": "AbdelsalamShahlol.jpeg"
+    "img": "AbdelsalamShahlol.jpg"
   },
   "MohamedFared": {
     "pastPairs": [
@@ -68,7 +68,7 @@ var Students = {
       "HamzaDanden"
     ],
     "Solo": false,
-    "img": "MohamedFared.jpeg"
+    "img": "MohamedFared.jpg"
   },
   "FirasAmous": {
     "pastPairs": [
@@ -77,7 +77,7 @@ var Students = {
       "FaroukGuizeni"
     ],
     "Solo": false,
-    "img": "FirasAmous.jpeg"
+    "img": "FirasAmous.jpg"
   },
   "HamamElmurtdh": {
     "pastPairs": [
@@ -86,7 +86,7 @@ var Students = {
       "HeniMezrani"
     ],
     "Solo": false,
-    "img": "HamamElmurtdh.jpeg"
+    "img": "HamamElmurtdh.jpg"
   },
   "ZiedBarhoumi": {
     "pastPairs": [
@@ -95,7 +95,7 @@ var Students = {
       "KhoubaiebGhaouari"
     ],
     "Solo": false,
-    "img": "ZiedBarhoumi.jpeg"
+    "img": "ZiedBarhoumi.jpg"
   },
   "HeniMezrani": {
     "pastPairs": [
@@ -104,7 +104,7 @@ var Students = {
       "HamamElmurtdh"
     ],
     "Solo": false,
-    "img": "HeniMezrani.jpeg"
+    "img": "HeniMezrani.jpg"
   },
   "SalimAliAlsaeh": {
     "pastPairs": [
@@ -113,7 +113,7 @@ var Students = {
       "AbdoAlabed"
     ],
     "Solo": false,
-    "img": "SalimAliAlsaeh.jpeg"
+    "img": "SalimAliAlsaeh.jpg"
   },
   "AliJalal": {
     "pastPairs": [
@@ -122,7 +122,7 @@ var Students = {
       "OmarBara"
     ],
     "Solo": false,
-    "img": "AliJalal.jpeg"
+    "img": "AliJalal.jpg"
   },
   "OnsRahmani": {
     "pastPairs": [
@@ -131,7 +131,7 @@ var Students = {
       "AmeraAyad"
     ],
     "Solo": false,
-    "img": "OnsRahmani.jpeg"
+    "img": "OnsRahmani.jpg"
   },
   "NejahSafi": {
     "pastPairs": [
@@ -140,7 +140,7 @@ var Students = {
       "SofianSaleh"
     ],
     "Solo": false,
-    "img": "NejahSafi.jpeg"
+    "img": "NejahSafi.jpg"
   },
   "HoudaRouaissi": {
     "pastPairs": [
@@ -149,7 +149,7 @@ var Students = {
       "HaniaLazreg"
     ],
     "Solo": false,
-    "img": "HoudaRouaissi.jpeg"
+    "img": "HoudaRouaissi.jpg"
   },
   "FoozBarakat": {
     "pastPairs": [
@@ -158,7 +158,7 @@ var Students = {
       "MalikAbdullah"
     ],
     "Solo": false,
-    "img": "FoozBarakat.jpeg"
+    "img": "FoozBarakat.jpg"
   },
   "JihedAbdelly": {
     "pastPairs": [
@@ -167,7 +167,7 @@ var Students = {
       "FatimaMabrook"
     ],
     "Solo": false,
-    "img": "JihedAbdelly.jpeg"
+    "img": "JihedAbdelly.jpg"
   },
   "MaherBouzid": {
     "pastPairs": [
@@ -176,7 +176,7 @@ var Students = {
       "AhmedWheida"
     ],
     "Solo": false,
-    "img": "MaherBouzid.jpeg"
+    "img": "MaherBouzid.jpg"
   },
   "MalikAbdullah": {
     "pastPairs": [
@@ -185,7 +185,7 @@ var Students = {
       "FoozBarakat"
     ],
     "Solo": false,
-    "img": "MalikAbdullah.jpeg"
+    "img": "MalikAbdullah.jpg"
   },
   "HamzaDanden": {
     "pastPairs": [
@@ -194,7 +194,7 @@ var Students = {
       "MohamedFared"
     ],
     "Solo": false,
-    "img": "HamzaDanden.jpeg"
+    "img": "HamzaDanden.jpg"
   },
   "FaresJelassi": {
     "pastPairs": [
@@ -203,7 +203,7 @@ var Students = {
       "RubaArifElwahieshi"
     ],
     "Solo": false,
-    "img": "FaresJelassi.jpeg"
+    "img": "FaresJelassi.jpg"
   },
   "TahaZnazen": {
     "pastPairs": [
@@ -213,7 +213,7 @@ var Students = {
       "InsafMechergui"
     ],
     "Solo": true,
-    "img": "TahaZnazen.jpeg"
+    "img": "TahaZnazen.jpg"
   },
   "KhoubaiebGhaouari": {
     "pastPairs": [
@@ -222,7 +222,7 @@ var Students = {
       "ZiedBarhoumi"
     ],
     "Solo": false,
-    "img": "KhoubaiebGhaouari.jpeg"
+    "img": "KhoubaiebGhaouari.jpg"
   },
   "WajdiHamrouni": {
     "pastPairs": [
@@ -231,7 +231,7 @@ var Students = {
       "BilelGharbi"
     ],
     "Solo": false,
-    "img": "WajdiHamrouni.jpeg"
+    "img": "WajdiHamrouni.jpg"
   },
   "RubaArifElwahieshi": {
     "pastPairs": [
@@ -240,7 +240,7 @@ var Students = {
       "FaresJelassi"
     ],
     "Solo": false,
-    "img": "AubaArifElwahieshi.jpeg"
+    "img": "RubaArifElwahieshi.jpg"
   },
   "AmeraAyad": {
     "pastPairs": [
@@ -249,7 +249,7 @@ var Students = {
       "OnsRahmani"
     ],
     "Solo": false,
-    "img": "AmeraAyad.jpeg"
+    "img": "AmeraAyad.jpg"
   },
   "FaroukGuizeni": {
     "pastPairs": [
@@ -258,7 +258,7 @@ var Students = {
       "FirasAmous"
     ],
     "Solo": false,
-    "img": "FaroukGuizeni.jpeg"
+    "img": "FaroukGuizeni.jpg"
   },
   "TahaMejri": {
     "pastPairs": [
@@ -266,7 +266,7 @@ var Students = {
       "AubaArifElwahieshi"
     ],
     "Solo": false,
-    "img": "TahaMejri.jpeg"
+    "img": "TahaMejri.jpg"
   },
   "FatimaMabrook": {
     "pastPairs": [
@@ -275,7 +275,7 @@ var Students = {
       "JihedAbdelly"
     ],
     "Solo": false,
-    "img": "FatimaMabrook.jpeg"
+    "img": "FatimaMabrook.jpg"
   },
   "AnasMarzouki": {
     "pastPairs": [
@@ -283,7 +283,7 @@ var Students = {
       "LinaBenSalem"
     ],
     "Solo": true,
-    "img": "AnasMarzouki.jpeg"
+    "img": "AnasMarzouki.jpg"
   },
   "AbdoAlabed": {
     "pastPairs": [
@@ -291,7 +291,7 @@ var Students = {
       "SalimAliAlsaeh"
     ],
     "Solo": false,
-    "img": "AbdoAlabed.jpeg"
+    "img": "AbdoAlabed.jpg"
   },
   "MohamedAmineSlaimia": {
     "pastPairs": [
@@ -299,7 +299,7 @@ var Students = {
       "TahaZnazen"
     ],
     "Solo": false,
-    "img": "MohamedAmineSlaimia.jpeg"
+    "img": "MohamedAmineSlaimia.jpg"
   },
   "MohamedDhiaWeslati": {
     "pastPairs": [
@@ -308,7 +308,7 @@ var Students = {
       "AbdulrahmanShibani"
     ],
     "Solo": false,
-    "img": "MohamedDhiaWeslati.jpeg"
+    "img": "MohamedDhiaWeslati.jpg"
   },
   "AhmedWheida": {
     "pastPairs": [
@@ -317,7 +317,7 @@ var Students = {
       "MaherBouzid"
     ],
     "Solo": false,
-    "img": "AhmedWheida.jpeg"
+    "img": "AhmedWheida.jpg"
   },
   "DhiaRaissi": {
     "pastPairs": [
@@ -326,7 +326,7 @@ var Students = {
       "MohamedBelkheir"
     ],
     "Solo": false,
-    "img": "DhiaRaissi.jpeg"
+    "img": "DhiaRaissi.jpg"
   },
   "AdamMomen": {
     "pastPairs": [
@@ -335,7 +335,7 @@ var Students = {
       "AdnenBenAbdelaali"
     ],
     "Solo": false,
-    "img": "AdamMomen.jpeg"
+    "img": "AdamMomen.jpg"
   },
   "AbdulrahmanShibani": {
     "pastPairs": [
@@ -344,7 +344,7 @@ var Students = {
       "MohamedDhiaWeslati"
     ],
     "Solo": false,
-    "img": "AbdulrahmanShibani.jpeg"
+    "img": "AbdulrahmanShibani.jpg"
   },
   "SofianSaleh": {
     "pastPairs": [
@@ -353,7 +353,7 @@ var Students = {
       "NejahSafi"
     ],
     "Solo": false,
-    "img": "SofianSaleh.jpeg"
+    "img": "SofianSaleh.jpg"
   },
   "EssamFaraj": {
     "pastPairs": [
@@ -362,7 +362,7 @@ var Students = {
       "MohamedAmineAouini"
     ],
     "Solo": false,
-    "img": "EssamFaraj.jpeg"
+    "img": "EssamFaraj.jpg"
   },
   "MuftahElzawi": {
     "pastPairs": [
@@ -371,7 +371,7 @@ var Students = {
       "AbdelsalamShahlol"
     ],
     "Solo": false,
-    "img": "MuftahElzawi.jpeg"
+    "img": "MuftahElzawi.jpg"
   },
   "InsafMechergui": {
     "pastPairs": [
@@ -379,7 +379,7 @@ var Students = {
       "TahaZnazen"
     ],
     "Solo": false,
-    "img": "InsafMechergui.jpeg"
+    "img": "InsafMechergui.jpg"
   },
   "LinaBenSalem": {
     "pastPairs": [
@@ -387,7 +387,7 @@ var Students = {
       "AnasMarzouki"
     ],
     "Solo": false,
-    "img": "LinaBenSalem.jpeg"
+    "img": "LinaBenSalem.jpg"
   },
   "AdnenBenAbdelaali": {
     "pastPairs": [
@@ -397,7 +397,7 @@ var Students = {
       "AdamMomen"
     ],
     "Solo": false,
-    "img": "AdnenBenAbdelaali.jpeg"
+    "img": "AdnenBenAbdelaali.jpg"
   },
   "BilelGharbi": {
     "pastPairs": [
@@ -407,7 +407,7 @@ var Students = {
       "WajdiHamrouni"
     ],
     "Solo": false,
-    "img": "BilelGharbi.jpeg"
+    "img": "BilelGharbi.jpg"
   },
   "MohamedSbeta": {
     "pastPairs": [
@@ -417,11 +417,11 @@ var Students = {
       "HashemBuzer"
     ],
     "Solo": false,
-    "img": "MohamedSbeta.jpeg"
+    "img": "MohamedSbeta.jpg"
   }
 }
 
-function each(coll, f) {
+function each(coll, f) {  // just utility functions to avoid repetition
   if (Array.isArray(coll)) {
     for (var i = 0; i < coll.length; i++) {
       f(coll[i], i);
@@ -443,49 +443,49 @@ function filter(array, predicate) {
   return acc;
 }
 
-function filterOut(studentList,pairsList){
+function filterOut(studentList,pairsList){  // this function takes the student list and filter out all the names that are present in the past pairs list of one student 
     var arr = studentList;
 	return filter(arr,function(element){
 	   return pairsList.includes(element) === false;
 	})
 }
-
-function choosePair(student,listOfStudents){
-	var arr = filterOut(listOfStudents,Students[student].pastPairs);
-	arr.splice(arr.indexOf(student),1)
-	return [student, arr[Math.floor(Math.random() * Math.floor(arr.length))]];
+ 
+function choosePair(student,listOfStudents){ // this function takes a student and a list of potentional pairs and pairs him/her with one 
+	var arr = filterOut(listOfStudents,Students[student].pastPairs); 
+	arr.splice(arr.indexOf(student),1) // to pairing a student with himself
+	return [student, arr[Math.floor(Math.random() * Math.floor(arr.length))]]; //the functon returns the pair names in an array of two
 }
 
-function addToPastpairs (arr){
+function addToPastpairs (arr){ // this function adds one pair to the master list of pairs
 	Students[arr[0]].pastPairs.push(arr[1])
 	Students[arr[1]].pastPairs.push(arr[0])
 }
 
-function findSolo(obj){
+function findSolo(obj){  // this function chooses a sad person to be solo with 
 	var arr = filter (Object.keys(obj),function(element){
-		return Students[element].Solo === false;
+		return Students[element].Solo === false; // we dnt want one person to be solo multiple times now would we? 
 	})
 	var sadPerson = arr[Math.floor(Math.random() * Math.floor(arr.length))];
-	Students[sadPerson].Solo = true;
+	Students[sadPerson].Solo = true; // making sure the sad person never goes through that experience again 
 	return [sadPerson,'solo'];	
 }
 
 function pairing(studentData) {
 
-	var list = Object.keys(studentData);
-	var pairs = [];
+	var list = Object.keys(studentData); //list of the students in an array
+	var pairs = []; // the master pairs list 
 	
-	if(list.length % 2 === 1){
+	if(list.length % 2 === 1){		// making sure the number of students is even by making one sad person be solo
 		pairs.push(findSolo(Students));
-		list.splice(pairs[0],1);
-	}
+		list.splice(list.indexOf(pairs[0][0]),1); //exculuding that sad guy 
+  }
 	
 	while(list.length > 0){
-		var arr = choosePair(list[0],list);
-		addToPastpairs(arr)
-		list.splice(0,1)
-		list.splice(list.indexOf(arr[1]),1)
-		pairs.push(arr);
+		var arr = choosePair(list[0],list); //we chose a pair for the the first student
+		addToPastpairs(arr) // add both of them to each other's past pair list 
+		list.splice(0,1) // we delete both of thm from the current list 
+		list.splice(list.indexOf(arr[1]),1) 
+		pairs.push(arr); //push the pair to the master pair list 
 	}
   	
   	return pairs;
@@ -496,6 +496,7 @@ function Manipulate(obj){
 	manipModule.studentsList = obj;
 	manipModule.changePic = changePic;
 	manipModule.changeName = changeName;
+  manipModule.giantResetButton = giantResetButton
 	return manipModule;
 }
 var changePic = function(student,newPic) {
@@ -507,3 +508,9 @@ var changeName = function(wrongName,correctName){
 	delete this.studentsList[wrongName]
 }
 
+var giantResetButton = function(){
+  each(Students,function(student,studentName){
+    studentName.pastPairs = [];
+    studentName.Solo = false;
+  })
+}

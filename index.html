@@ -6,29 +6,41 @@
 </head>
 <body>
 
-	<button>Generate!</button>
+	<h1>Random Pair Generator</h1>
 
-	<div id="renderedList"></div>
-
-
+	<button>Generate random pairs!</button>
+    <div class="Container"></div>
+    
 	<script
 	  src="https://code.jquery.com/jquery-3.4.1.js"
 	  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
 	  crossorigin="anonymous"></script>
-	<script type="text/javascript" src= "main.js"></script>
+	<script type="text/javascript" src= "main prototype.js"></script>
 	<script type="text/javascript">
 
-		$("button").on("click", display(pairSystem()));
+		function display(){
 
-		function display(arr){
-
-			$("#renderedList").html("");
+			var arr = pairing (Students), $div = $('.Container');
+			$div.html('');
 
 			for (var i = 0; i < arr.length; i++) {
-				$('body').append("<br><div>" + "<strong>" + arr[i][0] + "</strong> and <strong>" + arr[i][1] + "</strong> are paired together" + "</div>" )	
-			}
-			
+				$div.append("<div class = all id = all" + i +"></div>")
+				$("#all" + i).append("<img src = " + Students[arr[i][0]].img + " alt = " + Students[arr[i][0]].img + " >");
+				
+				if(arr[i][1] === 'solo'){
+					$("#all" + i).append("<div class = divvy ><strong>" + arr[i][0] + "</strong> was \"RANDOMLY\" selected  to work solo</div>" );
+				}else {
+					$("#all" + i).append("<div class = divvy ><strong>" + arr[i][0] + "</strong> and <strong>" + arr[i][1] + "</strong> are paired together</div>" );
+				}
+				if(arr[i][1] === 'solo'){
+					$("#all" + i).append("<img src = IMG_20191105_173733.jpg  alt = IMG_20191105_173733.jpg >")
+				} else {
+					$("#all" + i).append("<img src = " + Students[arr[i][1]].img + " alt = " + Students[arr[i][1]].img + " >");
+				}
+			}	
 		}
+
+		$('button').on('click', display);
 
 	</script>
 
